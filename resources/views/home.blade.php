@@ -12,7 +12,7 @@
     <a href="contact">Contact</a>
     <a href="about">About</a>
     <h1>This is the home page.</h1>
-    <p>Developed by Klent Gealourd</p>
+    <p>Developed by Klent Gealourd and Rolly Kuizon</p>
 </body>
 </html>
 
