@@ -16,6 +16,10 @@
         <li>Email: klentgealourdt@example.com</li>
         <li>Phone: 09936829845</li>
         <li>Facebook: Klent Gealourd</li>
+        <li>Full Name: Rolly Kuizon</li>
+        <li>Email: rollyjr.kuizon@gmail.com</li>
+        <li>Phone: 09307856002</li>
+        <li>Facebook: Rolly Kuizon</li>
     </ul>
 
 </body>
