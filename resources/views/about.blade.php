@@ -14,5 +14,8 @@
     <p>I am Klent Gealourd Tindoy, a passionate web developer.</p>
     <p>19 years old</p>
     <p>From Buenavista, Agusan del Norte</p>
+    <p>I am Rolly Kuizon, a passionate web developer.</p>
+    <p>19 years old</p>
+    <p>From Buenavista, Agusan del Norte</p>
 </body>
 </html>
